@@ -8,3 +8,6 @@ Results show that high-quality information disclosure curbs market manipulation.
 The study expands the exploration of factors influencing market manipulation by establishing a connection between information disclosure quality and manipulation. It challenges prior research by asserting that inadequate information disclosure reduces analyst attention. The study introduces an Information Disclosure Readability Index, capturing the influence of text features on disclosure quality. This research is not only significant for investment decisions, market supervision, and corporate governance but also broadens the academic perspective on the relationship between information disclosure and market manipulation, providing a reference for future studies.
 
 **Keywords**: Information disclosure quality; stock market manipulation; text mining; Management Discussion and Analysis; annual report readability
+
+**Reference**:
+李志辉, 王近, 李梦雨. 中国股票市场操纵对市场流动性的影响研究——基于收盘价操纵行为的识别与监测[J]. 金融研究, 2018(02):135-152. 
